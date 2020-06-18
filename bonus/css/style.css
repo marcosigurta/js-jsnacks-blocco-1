@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+#img {
+  width: 200px;
+  height: 200px;
+}
+
+.head {
+  background: url(https://www.testacroce.net/images/moneta8.png) no-repeat
+    center center/cover;
+}
+
+.cross {
+  background: url(https://www.testacroce.net/images/moneta0.png) no-repeat
+    center center/cover;
+}
